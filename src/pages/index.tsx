@@ -71,10 +71,10 @@ const Home: NextPage = () => {
     <Layout>
       <section className="mt-4 flex w-full flex-col items-center justify-center p-2 md:w-2/3 lg:w-1/2">
         <h2 className="bg-gradient-to-r from-pink-400 to-violet-400 bg-clip-text text-[5rem] font-black text-transparent md:text-[7rem]">
-          lyricsDr
+          ugLyrics
         </h2>
         <p className="text-center text-base text-pink-100 md:text-xl">
-          a simple and easy to use RESTful lyrics API that just works
+          A simple and easy to use RESTful lyrics API that just works.
         </p>
       </section>
       <section className="flex w-full flex-col items-center justify-center gap-4 p-2 md:w-2/3 lg:w-1/2">
@@ -88,7 +88,7 @@ const Home: NextPage = () => {
           <div className="flex w-full items-center justify-start gap-4">
             <input
               className="w-full rounded-md border border-zinc-600 bg-zinc-800/60 px-4 py-2 text-pink-100 shadow-xl outline-0 placeholder:text-zinc-400 hover:outline-0"
-              placeholder="Enter artist name (leave blank if unknown)"
+              placeholder="Enter artist name"
               onChange={handleArtistChange}
               onKeyUp={handleEnterPress}
             ></input>
