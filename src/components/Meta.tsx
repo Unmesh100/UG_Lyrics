@@ -3,7 +3,7 @@ import Head from "next/head";
 export default function Meta() {
   return (
     <Head>
-      <title>lyricsDr</title>
+      <title>UG_Lyrics</title>
       <link rel="icon" href="https://fmj.asrvd.me/🎶"></link>
       <meta
         name="description"
