@@ -7,7 +7,7 @@ export default function Meta() {
       <link rel="icon" href="https://fmj.asrvd.me/🎶"></link>
       <meta
         name="description"
-        content="simple yet powerful RESTful lyrics API"
+        content="simple yet powerful RESTful lyrics API" 
       />
       <meta name="theme-color" content="#fce7f3" />
       <meta property="og:site_name" content="lyrist" />
@@ -35,3 +35,5 @@ export default function Meta() {
     </Head>
   );
 }
+
+
