@@ -5,16 +5,16 @@ export default function Footer() {
       Made with {`<3`} by{" "}
       <a
         className="text-pink-200"
-        href="https://github.com/developerrahulofficial"
+        href="https://github.com/Unmesh100"
         target={"_blank"}
         rel="noreferrer"
       >
-        Deverloper Rahul
+        Unmesh
       </a>
       {" // "}
       <a
         className="text-pink-200"
-        href="https://github.com/developerrahulofficial/lyricsDr"
+        href="https://github.com/Unmesh100/UG_Lyrics"
         target={"_blank"}
         rel="noreferrer"
       >
