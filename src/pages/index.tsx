@@ -6,7 +6,7 @@ import { CheckIcon } from "../components/Icons/Check";
 import { CopyIcon } from "../components/Icons/Copy";
 import Layout from "../components/Layout";
 import { toast } from "react-hot-toast";
-
+ 
 type Lyrics = {
   lyrics: string;
   id: string;
