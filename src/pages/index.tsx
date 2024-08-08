@@ -7,7 +7,7 @@ import { CopyIcon } from "../components/Icons/Copy";
 import Layout from "../components/Layout";
 import { toast } from "react-hot-toast";
   
-type Lyrics = {
+type Lyrics = { 
   lyrics: string;
   id: string;
 };
