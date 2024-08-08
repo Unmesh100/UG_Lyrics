@@ -1,5 +1,5 @@
 import Layout from "../components/Layout";
-  
+   
 const responseObject = `{
   "title": "Fumes",
   "artist": "EDEN",
